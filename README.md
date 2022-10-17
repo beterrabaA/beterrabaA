@@ -4,10 +4,10 @@
 
 ## About me
 
-- ✨ Creating bugs since 2019
+- ✨ Creating bugs since 2021
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
 - 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- 🎲 And ... i play games and ♟ love read books
 
 ## I code with
 
