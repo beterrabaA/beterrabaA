@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Lucas Vieira, a full-time full-stack developer 👨‍💻 creating bugs since 2021 🚀,from  Ceará, Brazil.</div>  
+  # <div align="center">I'm Lucas Vieira, a full-time full-stack developer 👨‍💻 creating bugs since 2021 🚀,from  Ceará, Brazil.</div>  
   
 
 - 🔭 I'm currently learning english  
