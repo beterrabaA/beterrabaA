@@ -1,52 +1,128 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<p> My name is Lucas Vieira but call me Beterraba and i'm a Full-Stack developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Ceará, Brazil</b>. </p>
+### <div align="center">I'm Lucas Vieira, a full-time full-stack developer 👨‍💻 creating bugs since 2021 🚀,from  Ceará, Brazil.</div>  
+  
 
-## About me
+- 🔭 I'm currently learning english  
+  
 
-- ✨ Creating bugs since 2021
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
-- 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play games and ♟ love read books
+- ☕ Code and coffee always go together  
+  
 
-## I code with
+- 🧠 Goals: Learn new technologies and cultures  
+  
 
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+- ⚡ And ... i play games and love read books  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Lerpardo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+<a href="https://dev.to/beterraba" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+<a href="https://linkedin.com/in/beterraba" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://instagram.com/lerpardo_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
-</a>
+<br/>  
 
-<a href="https://nestjs.com" target="_blank">
-  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
-</a>
 
-<a href="https://go.dev" target="_blank">
-  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
-</a>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lerpardo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
-</a>
+<br/>  
 
-<a href="https://jestjs.io/pt-BR/" target="_blank">
-  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
-</a>
 
-<a href="https://www.cypress.io" target="_blank">
-  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-</a>
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
-</a>
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ls6182315&cover_image=true&theme=default&show_offline=true" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Lerpardo&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/Lerpardo" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
