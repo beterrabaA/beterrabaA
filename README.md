@@ -1,4 +1,4 @@
-<p align="center">Lucas is a Web developer, trained at Trybe, looking for new challenges and adventures. Knowledgeable about javascript technologies: React, Next, Node, Nest. It could say that "Typescript" is its "Middle name". He knows how to work with relational and non-relational databases. Using or not Sequelize and mongoose. He is learning a little more about Prisma. Looking for your first job. He is full of vigor to learn and willingness to apply his knowledge.</p>
+<p align="center">Full stack Javascript Developer.Creating the Matrix.</p>
 
 
 ###
