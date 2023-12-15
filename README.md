@@ -1,4 +1,4 @@
-<p align="center">Full stack Javascript Developer.Creating the Matrix.</p>
+<p align="center">Full stack Javascript Developer.Creating a Matrix.</p>
 
 
 ###
